@@ -5,7 +5,8 @@
        alt="snake" /></a>
 </div>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
@@ -20,8 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshu05)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO_DE_GITHUB)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
-
-
 ---
 
 ### Languages and Tools 🛠 
