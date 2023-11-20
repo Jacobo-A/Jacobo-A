@@ -87,11 +87,9 @@ Hi there, I'm Alejandro!
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/4OMJGnvZfDvsePyCwRGO7X)
 
 ---
-
----- <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /> ### YouTube Music Playing 🎧 !YouTube Music ---
 
 
 
