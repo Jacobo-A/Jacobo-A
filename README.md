@@ -9,7 +9,7 @@ Hi there, I'm Alejandro!
 </h1>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
+  <img  src="https://github.com/Jacobo-A/Jacobo-A/blob/main/Background.png">
 </div>
 
 
