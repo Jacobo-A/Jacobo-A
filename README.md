@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   # Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-</p>
+</div>
 
 <!--- snake -->
 <div align="center">
