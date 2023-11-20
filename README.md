@@ -1,4 +1,9 @@
-# Hi there, I'm Alejandro <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<h1 align="center">
+Hi there, I'm Alejandro!
+	<a href="https://github.com/Jacobo-A" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="margin-bottom: 20px;" />
 
