@@ -13,12 +13,12 @@ Hi there, I'm Alejandro!
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and snooker 🎱.
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CVyx9qyYPF) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pranshu.05) 
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshu05)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO_DE_GITHUB)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/pranshu.05)
+
 ---
 
 <!--- snake -->
@@ -83,13 +83,6 @@ Hi there, I'm Alejandro!
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
 ----
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/4OMJGnvZfDvsePyCwRGO7X)
-
----
 
 
 
