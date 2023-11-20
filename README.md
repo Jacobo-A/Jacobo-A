@@ -29,8 +29,7 @@ Hi there, I'm Alejandro!
 ## 🛠️ My Skills
 
 <div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px">
-  <h3 align="center" style="display: inline-block;">Programming Languages</h3>
+  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming Languages
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
