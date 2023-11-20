@@ -60,6 +60,10 @@ Hi there, I'm Alejandro!
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Internet of Things
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=ESP32&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-dot-js&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-00BFFF?style=flat-square&logo=MQTT&logoColor=white)
+![HiveMQ](https://img.shields.io/badge/HiveMQ-772953?style=flat-square&logo=HiveMQ&logoColor=white)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2C3E50?style=flat-square&logo=LoRaWAN&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
