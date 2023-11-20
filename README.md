@@ -28,17 +28,20 @@ Hi there, I'm Alejandro!
 ---
 ## 🛠️ My Skills
 
-<p align="center">
+<div align="center">
   <picture>
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px">
   </picture>
-  <h3 align="center">Programming Languages</h3>
+  <h3>Programming Languages</h3>
+</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=white" alt="Shell">
 </p>
+
 
 
 <h3 align="center">Frontend</h3>
