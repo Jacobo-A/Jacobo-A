@@ -1,12 +1,4 @@
-<center>
-# Hi there, I'm Bilgehan - aka [**Bgstatic**][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-</center>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+# Hi there, I'm Alejandro - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="margin-bottom: 20px;" />
 
@@ -25,6 +17,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO_DE_GITHUB)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
 ---
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ### Languages and Tools 🛠 
 
