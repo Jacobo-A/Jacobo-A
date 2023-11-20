@@ -27,9 +27,6 @@ Hi there, I'm Alejandro!
 
 ---
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🛠️ My Skills  
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming Languages
@@ -81,8 +78,7 @@ Hi there, I'm Alejandro!
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=Fedora&logoColor=white)
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 <!--- snake -->
 <div align="center">
