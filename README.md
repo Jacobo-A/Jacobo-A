@@ -28,8 +28,6 @@ Hi there, I'm Alejandro!
 </div>
 
 ----
-<br>
-
 ## 🛠️ My Skills  
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
