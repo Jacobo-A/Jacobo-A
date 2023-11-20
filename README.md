@@ -30,7 +30,7 @@ Hi there, I'm Alejandro!
 ----
 ## 🛠️ My Skills  
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -64,6 +64,7 @@ Hi there, I'm Alejandro!
 ![MQTT](https://img.shields.io/badge/MQTT-00BFFF?style=flat-square&logo=MQTT&logoColor=white)
 ![HiveMQ](https://img.shields.io/badge/HiveMQ-772953?style=flat-square&logo=HiveMQ&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2C3E50?style=flat-square&logo=LoRaWAN&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=SSH&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
@@ -77,9 +78,9 @@ Hi there, I'm Alejandro!
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
-![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=Fedora&logoColor=white)
+![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
 ----
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
