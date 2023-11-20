@@ -40,6 +40,67 @@ Hi there, I'm Alejandro!
 </a>
 </div>
 
+---
+## 🛠️ My Skills
+
+### Programming Languages
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50">
+</p>
+
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white">
+</p>
+
+### Data Analysis
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="50">
+</p>
+
+<p align="center">
+  <!-- Agrega aquí los escudos para Data Analysis -->
+</p>
+
+### Software & Tools
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50">
+</p>
+
+<p align="center">
+  <!-- Agrega aquí los escudos para Software & Tools -->
+</p>
+
+### Internet of Things
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50">
+</p>
+
+<p align="center">
+  <!-- Agrega aquí los escudos para Internet of Things -->
+</p>
+
+### IDEs
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50">
+</p>
+
+<p align="center">
+  <!-- Agrega aquí los escudos para IDEs -->
+</p>
+
+### Operating Systems
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="50">
+</p>
+
+<p align="center">
+  <!-- Agrega aquí los escudos para Operating Systems -->
+</p>
+
 
 ---
 
