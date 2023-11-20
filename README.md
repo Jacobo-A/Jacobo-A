@@ -48,7 +48,7 @@ Hi there, I'm Alejandro!
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming Languages
 
 <a href="URL_DEL_PERFIL_DE_PYTHON" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python" style="margin-bottom: 10px;" />
 </a>
 <a href="URL_DEL_PERFIL_DE_C" target="_blank">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C" style="margin-bottom: 5px;" />
