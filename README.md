@@ -9,7 +9,7 @@ Hi there, I'm Alejandro!
 </h1>
 
 <div align="center">
-  <img  src="[https://github.com/Jacobo-A/Jacobo-A/blob/main/Background.png](https://github.com/Jacobo-A/Jacobo-A/blob/main/Bg.png)">
+  <img  src="https://github.com/Jacobo-A/Jacobo-A/blob/main/Bg.png">
 </div>
 
 
