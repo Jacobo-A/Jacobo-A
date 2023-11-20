@@ -28,6 +28,7 @@ Hi there, I'm Alejandro!
 </div>
 
 ----
+<br>
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
@@ -81,7 +82,7 @@ Hi there, I'm Alejandro!
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![KaliLinux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=KaliLinux&logoColor=white)
 
-<br/>
+<br>
 ---
 
 ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
