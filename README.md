@@ -5,7 +5,7 @@ Hi there, I'm Alejandro!
 	</a>
 </h1>
 
-<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="margin-bottom: 20px;" />
+<img align="right" alt="GIF" height="200px" src="https://github.com/Jacobo-A/Jacobo-A/blob/main/57615b8c0092a66c1d4058b1692955cc.gif" style="margin-bottom: 20px;" />
 
 ## I'm a Computer Science and Engineering Student  
 
