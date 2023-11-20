@@ -32,7 +32,7 @@ Hi there, I'm Alejandro!
 	<picture> 
 		<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> 
 	</picture> 
-	### Programming Languages
+	<h3>Programming Languages</h3>
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
