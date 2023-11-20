@@ -58,6 +58,16 @@ Hi there, I'm Alejandro!
     <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white" alt="Anaconda">  
 </p>
 
+<div align="center">
+	<h3 align="center">Programming Languages</h3>
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Shell-FFD500?style=for-the-badge&logo=Shell&logoColor=white" alt="Shell">
+</p>
 
      
 </td>
