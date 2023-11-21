@@ -14,7 +14,6 @@ Hi there, I'm Alejandro!
 <img align="right" alt="GIF" height="200px" src="https://github.com/Jacobo-A/Jacobo-A/blob/main/57615b8c0092a66c1d4058b1692955cc.gif" style="margin-bottom: 20px;" />
 
 ## I'm a Computer Science and Telecommunications Engineering Student 🌐📡 
-
 - 👨‍💻 Currently delving into the fascinating realm of Internet of Things (IoT) and Cisco technologies.
 - 📊 I possess skills in data analysis, honing my ability to extract valuable insights from datasets.
 - 📚 Throughout my academic journey, I've tackled courses in OOP, data structures, UI, databases, and information management. I've also explored the domains of digital and analog control, as well as networks and telecommunications.
