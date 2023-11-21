@@ -13,12 +13,13 @@ Hi there, I'm Alejandro!
 
 <img align="right" alt="GIF" height="200px" src="https://github.com/Jacobo-A/Jacobo-A/blob/main/57615b8c0092a66c1d4058b1692955cc.gif" style="margin-bottom: 20px;" />
 
-## I'm a Computer Science and Telecommunications Engineering Student 🌐📡 
-- 👨‍💻 Currently delving into the fascinating realm of Internet of Things (IoT) and Cisco technologies.
+## I'm a student of Computer and Telecommunications Engineering 🌐📡
+- 👨‍💻 Currently, I'm delving into the fascinating realm of Internet of Things (IoT) and Cisco technologies.
 - 📊 I possess skills in data analysis, honing my ability to extract valuable insights from datasets.
-- 📚 Throughout my academic journey, I've tackled courses in OOP, data structures, UI, databases, and information management. I've also explored the domains of digital and analog control, as well as networks and telecommunications.
-- 💡 My passions include staying updated on new technology trends, playing the drums, and enjoying reading.
+- 📚 Throughout my academic journey, I've covered topics such as OOP, data structures, UI, databases, information management, digital and analog control, as well as networks and telecommunications.
+- 💡 My passions include exploring news about emerging technologies, playing the drums, singing, and enjoying reading.
 - ⚡ Future goals: Keep learning and exploring new ideas in the vast world of technology.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-flores-jacobo-855556238/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacobo-A)
