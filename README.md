@@ -18,7 +18,7 @@ Hi there, I'm Alejandro!
 - 📊 I possess skills in data analysis, refining my ability to extract valuable information from datasets.
 - 📚 Throughout my academic journey, I've covered topics in programming, data analysis, and Networks and Telecommunications.
 - 💡 My passions include exploring news about new technologies.
--⚡ Future goal: Develop innovative solutions in my areas of interest to drive technological evolution.
+- ⚡ Future goal: Develop innovative solutions in my areas of interest to drive technological evolution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-flores-jacobo-855556238/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jacobo-A)
