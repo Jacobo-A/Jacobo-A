@@ -91,7 +91,7 @@ Hi there, I'm Alejandro!
 </table>
 
 ---
-
+<div align="center">
 ## 🛠️ My Skills  
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming Languages
@@ -143,6 +143,7 @@ Hi there, I'm Alejandro!
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=Fedora&logoColor=white)
 ![Raspberry Pi OS](https://img.shields.io/badge/Raspberry_Pi_OS-A22846?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 
+</div>
 ---
 ### ⚙️ &nbsp;GitHub Analytics
 
