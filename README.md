@@ -13,7 +13,7 @@ Hi there, I'm Alejandro!
 
 <img align="right" alt="GIF" height="200px" src="https://github.com/Jacobo-A/Jacobo-A/blob/main/57615b8c0092a66c1d4058b1692955cc.gif" style="margin-bottom: 20px;" />
 
-## I'm a student in Computer Science and Telecommunications 🌐
+# I'm a student in Computer Science and Telecommunications 🌐
 - 👨‍💻 Currently, I'm delving into the fascinating world of Internet of Things (IoT) and Cisco technologies.
 - 📊 I possess skills in data analysis, refining my ability to extract valuable information from datasets.
 - 📚 Throughout my academic journey, I've covered topics in programming, data analysis, and Networks and Telecommunications.
