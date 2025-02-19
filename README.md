@@ -25,11 +25,6 @@ Hi there, I'm Alejandro!
 
 
 ---
-<!--snake-->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 
 <table width="100%" >
@@ -47,7 +42,6 @@ Hi there, I'm Alejandro!
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
 
@@ -64,10 +58,6 @@ Hi there, I'm Alejandro!
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat-square&logo=Sublime-Text&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Internet of Things
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
@@ -75,8 +65,7 @@ Hi there, I'm Alejandro!
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-dot-js&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-00BFFF?style=flat-square&logo=MQTT&logoColor=white)
 ![HiveMQ](https://img.shields.io/badge/HiveMQ-772953?style=flat-square&logo=HiveMQ&logoColor=white)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2C3E50?style=flat-square&logo=LoRaWAN&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH-000000?style=flat-square&logo=SSH&logoColor=white)
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
